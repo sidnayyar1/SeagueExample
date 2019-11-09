@@ -14,6 +14,7 @@
 		019814B82376483E005C3EF5 /* SeagueExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 019814B62376483E005C3EF5 /* SeagueExample.xcdatamodeld */; };
 		019814BA2376483E005C3EF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 019814B92376483E005C3EF5 /* Assets.xcassets */; };
 		019814BD2376483E005C3EF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 019814BB2376483E005C3EF5 /* LaunchScreen.storyboard */; };
+		019814C5237648C1005C3EF5 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019814C4237648C1005C3EF5 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		019814B92376483E005C3EF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		019814BC2376483E005C3EF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		019814BE2376483E005C3EF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		019814C4237648C1005C3EF5 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				019814BB2376483E005C3EF5 /* LaunchScreen.storyboard */,
 				019814BE2376483E005C3EF5 /* Info.plist */,
 				019814B62376483E005C3EF5 /* SeagueExample.xcdatamodeld */,
+				019814C4237648C1005C3EF5 /* ResultViewController.swift */,
 			);
 			path = SeagueExample;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				019814C5237648C1005C3EF5 /* ResultViewController.swift in Sources */,
 				019814B82376483E005C3EF5 /* SeagueExample.xcdatamodeld in Sources */,
 				019814B22376483E005C3EF5 /* ViewController.swift in Sources */,
 				019814AE2376483E005C3EF5 /* AppDelegate.swift in Sources */,
